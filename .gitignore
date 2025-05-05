@@ -1,0 +1,12 @@
+node_modules
+dist
+.env
+_DATA
+.turbo
+.pnpm-store
+tsconfig.tsbuildinfo
+.astro
+pnpm-lock.yaml
+.vscode
+meow
+.http
